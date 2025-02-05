@@ -1,5 +1,5 @@
-import { Library } from "../../../Solid/1.Srp/library";
-import { Book } from "../../../Solid/1.Srp/book";
+import { Library } from "./../../Solid/1.Srp/Library";
+import { Book } from "./../../Solid/1.Srp/Book";
 
 describe("Library Class", () => {
     let library: Library;
